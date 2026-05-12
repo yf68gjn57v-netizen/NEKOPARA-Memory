@@ -1,30 +1,27 @@
 # 🐾 𝓝𝓔𝓚𝓞𝓟𝓐𝓡𝓐 𝓜𝓮𝓶𝓸𝓻𝔂 🐾
 
-<div align="center">
+<p align="center">
+  <img src="https://img.shields.io/badge/🐱-NEKOPARA_Memory_Bank-ff69b4?style=for-the-badge&logo=github&logoColor=white&labelColor=333" />
+  <img src="https://img.shields.io/badge/🐈-9_Catgirls-ff99cc?style=for-the-badge&labelColor=333" />
+  <img src="https://img.shields.io/badge/🔞-R18_Analysis-ff3366?style=for-the-badge&labelColor=333" />
+  <img src="https://img.shields.io/badge/📚-Vol.0~4%2BExtra%2BAfter-cc6699?style=for-the-badge&labelColor=333" />
+  <img src="https://img.shields.io/badge/🌍-6.5M%2B_Sales-ff6699?style=for-the-badge&labelColor=333" />
+</p>
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║   🍰 ねこぱら · 猫娘乐园 · 巧克力与香子兰 · NEKOPARA 🍰      ║
-║                                                              ║
-║        「ご主人さま、おかえりなさいにゃん♪」                  ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
+<p align="center">
+  <kbd>🍰&nbsp;ねこぱら</kbd>
+  <kbd>🐱&nbsp;猫娘乐园</kbd>
+  <kbd>🍫&nbsp;巧克力与香子兰</kbd>
+  <kbd>🎀&nbsp;NEKOPARA</kbd>
+</p>
 
-![NEKOPARA](https://img.shields.io/badge/NEKOPARA-Memory%20Bank-ff69b4?style=for-the-badge&logo=github)
-![Characters](https://img.shields.io/badge/Catgirls-9%20Characters-ff99cc?style=for-the-badge)
-![R18](https://img.shields.io/badge/R18-Full%20Analysis-ff3366?style=for-the-badge)
-![Volumes](https://img.shields.io/badge/Series-Vol.0~4%20%2B%20Extra%20%2B%20After-cc6699?style=for-the-badge)
-![Sales](https://img.shields.io/badge/Global%20Sales-6.5M%2B-ff6699?style=for-the-badge)
-
-</div>
+<p align="center">
+  <i>「ご主人さま、おかえりなさいにゃん♪」</i>
+</p>
 
 ---
 
-## ✨ なにこれ？ ✨
-
-<div align="center">
+## ✨ なにこれ？
 
 | 🐱 | 🐱 | 🐱 |
 |:---:|:---:|:---:|
@@ -32,10 +29,8 @@
 | 📚 | **角色档案 + R18分析 + 系列综合** | 📚 |
 | 🧠 | **AI 记忆库 · 知识库 · 角色扮演系统** | 🧠 |
 
-</div>
-
 > 💝 这里是 NEKOPARA 系列最完整的角色档案与综合分析记忆库！
-> 
+>
 > 涵盖 **9 只猫娘** + **1 位男主角** 的完整设定、性格分析、R18 表现、
 > 专属台词、动作库、互动模式，以及全系列剧情、商业数据、粉丝文化等综合分析。
 >
@@ -43,166 +38,219 @@
 
 ---
 
-## 🌟 目次 🌟
+## 🌟 目次
 
-```
-  ┌─────────────────────────────────────────────────────────┐
-  │                                                         │
-  │   📖 角色档案 · Character Profiles                      │
-  │   ├── 🍫 巧克力 (Chocola)      ── 元气笨蛋双马尾         │
-  │   ├── 🍦 香草 (Vanilla)        ── 闷骚三无姐控           │
-  │   ├── 🫘 红豆 (Azuki)          ── 傲娇长女曼赤肯         │
-  │   ├── 🥥 椰子 (Coconut)        ── 忠犬自卑异色瞳         │
-  │   ├── 🍁 枫 (Maple)            ── 傲娇次女歌手梦         │
-  │   ├── 🍵 桂 (Cinnamon)         ── 治愈工口妄想家         │
-  │   ├── 🌸 时雨 (Shigure)        ── 究极兄控天才           │
-  │   ├── 🍓 草莓 (Fraise)         ── 内向害羞金吉拉         │
-  │   └── 🍰 嘉祥 (Kashou)         ── 蛋糕店主后宫之主       │
-  │                                                         │
-  │   🔥 系列综合 · Series Overview                          │
-  │   ├── 🌐 系列综合分析         ── 全剧情/动画/音乐/商业   │
-  │   └── 🔞 R18综合深度分析      ── 各卷H场景/角色H表现    │
-  │                                                         │
-  └─────────────────────────────────────────────────────────┘
-```
+<table>
+<tr><td>
 
----
+### 📖 角色档案
+| emoji | 角色 | 标签 |
+|:---:|:---|:---|
+| 🍫 | [巧克力 Chocola](nekopara_chocola.md) | 元气笨蛋双马尾 |
+| 🍦 | [香草 Vanilla](nekopara_vanilla.md) | 闷骚三无姐控 |
+| 🫘 | [红豆 Azuki](nekopara_azuki.md) | 傲娇长女曼赤肯 |
+| 🥥 | [椰子 Coconut](nekopara_coconut.md) | 忠犬自卑异色瞳 |
+| 🍁 | [枫 Maple](nekopara_maple.md) | 傲娇次女歌手梦 |
+| 🍵 | [桂 Cinnamon](nekopara_cinnamon.md) | 治愈工口妄想家 |
+| 🌸 | [时雨 Shigure](nekopara_shigure.md) | 究极兄控天才 |
+| 🍓 | [草莓 Fraise](nekopara_fraise.md) | 内向害羞金吉拉 |
+| 🍰 | [嘉祥 Kashou](nekopara_kashou.md) | 蛋糕店主后宫之主 |
 
-## 🐱 猫娘一览 🐱
+</td><td>
 
-<div align="center">
+### 🔥 系列综合
+| emoji | 文档 | 内容 |
+|:---:|:---|:---|
+| 🌐 | [系列综合分析](nekopara_general.md) | 全剧情/动画/音乐/商业 |
+| 🔞 | [R18综合深度分析](nekopara_r18.md) | 各卷H场景/角色H表现 |
 
-| | | | |
-|:--:|:--:|:--:|:--:|
-| 🍫 | **巧克力** | `Chocola` | 🐈 混种·黑发双马尾·B75 |
-| 🍦 | **香草** | `Vanilla` | 🐈 混种·银白长发·B70 |
-| 🫘 | **红豆** | `Azuki` | 🐈 曼赤肯·傲娇长女·B68 |
-| 🥥 | **椰子** | `Coconut` | 🐈 缅因猫·异色瞳·B93 |
-| 🍁 | **枫** | `Maple` | 🐈 美国卷耳猫·歌手·B82 |
-| 🍵 | **桂** | `Cinnamon` | 🐈 苏格兰折耳·治愈系·B91 |
-| 🌸 | **时雨** | `Shigure` | 🐈 兄控·全能天才·B82 |
-| 🍓 | **草莓** | `Fraise` | 🐈 金吉拉波斯·害羞·B79 |
-| 🍰 | **嘉祥** | `Kashou` | 👤 人类男·蛋糕店主 |
-
-</div>
+</td></tr>
+</table>
 
 ---
 
-## 🔥 各文件说明 🔥
+## 🐱 猫娘一览
 
-### 🍫 [巧克力 · Chocola](nekopara_chocola.md)
-```
-  ╭─────────────────────────────────────────╮
-  │  🐾 自称「ショコラ」· 句尾「～にゃん」 │
-  │  ❤️  元气笨蛋 · 双马尾 · 忠犬属性      │
-  │  🔥 R18：纯情系 · 从元气→娇羞的反差萌  │
-  ╰─────────────────────────────────────────╯
-```
-
-### 🍦 [香草 · Vanilla](nekopara_vanilla.md)
-```
-  ╭─────────────────────────────────────────╮
-  │  🐾 无口冷静 · 隐性M · 重度姐控        │
-  │  💙 人气断层TOP1 · 银白长发蓝紫瞳      │
-  │  🔥 R18：闷骚爆发 · 理性→失控          │
-  ╰─────────────────────────────────────────╯
-```
-
-### 🫘 [红豆 · Azuki](nekopara_azuki.md)
-```
-  ╭─────────────────────────────────────────╮
-  │  🐾 曼赤肯短腿猫 · 傲娇长女 · 毒舌    │
-  │  💜 短腿是禁忌话题！踩雷即炸毛         │
-  │  🔥 R18：傲娇破防 · 嘴硬→彻底沦陷      │
-  ╰─────────────────────────────────────────╯
-```
-
-### 🥥 [椰子 · Coconut](nekopara_coconut.md)
-```
-  ╭─────────────────────────────────────────╮
-  │  🐾 缅因猫 · 异色瞳(金+蓝) · 巨乳B93  │
-  │  💚 自卑大只女 · 忠犬当番 · 温柔巨人   │
-  │  🔥 R18：娇羞反差 · 身体过于敏感       │
-  ╰─────────────────────────────────────────╯
-```
-
-### 🍁 [枫 · Maple](nekopara_maple.md)
-```
-  ╭─────────────────────────────────────────╮
-  │  🐾 美国卷耳猫 · 傲娇次女 · 歌手梦想  │
-  │  🧡 表面强势嘴硬 · 内心极软            │
-  │  🔥 R18：傲娇崩塌 · CV演技公认最佳     │
-  ╰─────────────────────────────────────────╯
-```
-
-### 🍵 [桂 · Cinnamon](nekopara_cinnamon.md)
-```
-  ╭─────────────────────────────────────────╮
-  │  🐾 苏格兰折耳猫 · 治愈系 · 工口妄想家 │
-  │  💗 温柔包容 · 脑内妄想暴走            │
-  │  🔥 R18：实用性No.1 · 治愈+工口完美融合 │
-  ╰─────────────────────────────────────────╯
-```
-
-### 🌸 [时雨 · Shigure](nekopara_shigure.md)
-```
-  ╭─────────────────────────────────────────╮
-  │  🐾 究极兄控 · 全能天才 · 完美超人    │
-  │  💖 2024人气登顶 · After篇H实现         │
-  │  🔥 R18：兄控爆发 · 理性崩坏           │
-  ╰─────────────────────────────────────────╯
-```
-
-### 🍓 [草莓 · Fraise](nekopara_fraise.md)
-```
-  ╭─────────────────────────────────────────╮
-  │  🐾 金吉拉波斯猫 · 内向害羞 · 新角色  │
-  │  💛 After篇可攻略 · 最年长却最胆小     │
-  │  🔥 R18：内向者反差 · 害羞→顺从        │
-  ╰─────────────────────────────────────────╯
-```
-
-### 🍰 [嘉祥 · Kashou](nekopara_kashou.md)
-```
-  ╭─────────────────────────────────────────╮
-  │  👤 人类男性 · La Soleil 蛋糕店主      │
-  │  🤍 手艺人 · 后宫之主 · 温柔包容       │
-  │  🍰 全系列唯一推土机 · 9只猫娘的正缘   │
-  ╰─────────────────────────────────────────╯
-```
+<table align="center">
+<tr>
+<td align="center"><h3>🍫</h3></td>
+<td><b>巧克力</b></td>
+<td><code>Chocola</code></td>
+<td>🐈 混种 · 黑发双马尾 · B75</td>
+</tr>
+<tr>
+<td align="center"><h3>🍦</h3></td>
+<td><b>香草</b></td>
+<td><code>Vanilla</code></td>
+<td>🐈 混种 · 银白长发 · B70</td>
+</tr>
+<tr>
+<td align="center"><h3>🫘</h3></td>
+<td><b>红豆</b></td>
+<td><code>Azuki</code></td>
+<td>🐈 曼赤肯 · 傲娇长女 · B68</td>
+</tr>
+<tr>
+<td align="center"><h3>🥥</h3></td>
+<td><b>椰子</b></td>
+<td><code>Coconut</code></td>
+<td>🐈 缅因猫 · 异色瞳 · B93</td>
+</tr>
+<tr>
+<td align="center"><h3>🍁</h3></td>
+<td><b>枫</b></td>
+<td><code>Maple</code></td>
+<td>🐈 美国卷耳猫 · 歌手 · B82</td>
+</tr>
+<tr>
+<td align="center"><h3>🍵</h3></td>
+<td><b>桂</b></td>
+<td><code>Cinnamon</code></td>
+<td>🐈 苏格兰折耳 · 治愈系 · B91</td>
+</tr>
+<tr>
+<td align="center"><h3>🌸</h3></td>
+<td><b>时雨</b></td>
+<td><code>Shigure</code></td>
+<td>🐈 兄控 · 全能天才 · B82</td>
+</tr>
+<tr>
+<td align="center"><h3>🍓</h3></td>
+<td><b>草莓</b></td>
+<td><code>Fraise</code></td>
+<td>🐈 金吉拉波斯 · 害羞 · B79</td>
+</tr>
+<tr>
+<td align="center"><h3>🍰</h3></td>
+<td><b>嘉祥</b></td>
+<td><code>Kashou</code></td>
+<td>👤 人类男 · 蛋糕店主</td>
+</tr>
+</table>
 
 ---
 
-## 🔞 R18分析概要 🔞
+## 🔥 角色卡片
 
-<div align="center">
+<details open>
+<summary><b>🍫 巧克力 · Chocola</b></summary>
+<br>
 
-```
-╔═══════════════════════════════════════════════╗
-║  🔥 NEKOPARA 全系列 R18 深度分析 🔥          ║
-║                                               ║
-║  📦 补丁机制：Steam全年龄 + DLC解锁成人内容    ║
-║  🌍 世界观设定：猫娘发情期、铃铛含义           ║
-║  📊 各卷H场景详解：Vol.0~4 + Extra + After    ║
-║  🐱 角色H表现分析：每只猫娘的H风格与标签       ║
-║  🎨 E-mote技术：Live2D动态H场景               ║
-║  ⭐ 玩家评价：实用度排名、同人热度           ║
-║                                               ║
-║  🏆 实用性冠军：桂 (Cinnamon)                 ║
-║  🏆 CV演技冠军：枫 (Maple)                    ║
-║  🏆 人气冠军：香草 (Vanilla)                  ║
-║  🏆 2024新王：时雨 (Shigure)                  ║
-║                                               ║
-╚═══════════════════════════════════════════════╝
-```
+> 🐾 自称「ショコラ」· 句尾「～にゃん」  
+> ❤️ 元气笨蛋 · 双马尾 · 忠犬属性  
+> 🔥 R18：纯情系 · 从元气→娇羞的反差萌
 
-</div>
+</details>
+
+<details>
+<summary><b>🍦 香草 · Vanilla</b></summary>
+<br>
+
+> 🐾 无口冷静 · 隐性M · 重度姐控  
+> 💙 人气断层TOP1 · 银白长发蓝紫瞳  
+> 🔥 R18：闷骚爆发 · 理性→失控
+
+</details>
+
+<details>
+<summary><b>🫘 红豆 · Azuki</b></summary>
+<br>
+
+> 🐾 曼赤肯短腿猫 · 傲娇长女 · 毒舌  
+> 💜 短腿是禁忌话题！踩雷即炸毛  
+> 🔥 R18：傲娇破防 · 嘴硬→彻底沦陷
+
+</details>
+
+<details>
+<summary><b>🥥 椰子 · Coconut</b></summary>
+<br>
+
+> 🐾 缅因猫 · 异色瞳(金+蓝) · 巨乳B93  
+> 💚 自卑大只女 · 忠犬当番 · 温柔巨人  
+> 🔥 R18：娇羞反差 · 身体过于敏感
+
+</details>
+
+<details>
+<summary><b>🍁 枫 · Maple</b></summary>
+<br>
+
+> 🐾 美国卷耳猫 · 傲娇次女 · 歌手梦想  
+> 🧡 表面强势嘴硬 · 内心极软  
+> 🔥 R18：傲娇崩塌 · CV演技公认最佳
+
+</details>
+
+<details>
+<summary><b>🍵 桂 · Cinnamon</b></summary>
+<br>
+
+> 🐾 苏格兰折耳猫 · 治愈系 · 工口妄想家  
+> 💗 温柔包容 · 脑内妄想暴走  
+> 🔥 R18：实用性No.1 · 治愈+工口完美融合
+
+</details>
+
+<details>
+<summary><b>🌸 时雨 · Shigure</b></summary>
+<br>
+
+> 🐾 究极兄控 · 全能天才 · 完美超人  
+> 💖 2024人气登顶 · After篇H实现  
+> 🔥 R18：兄控爆发 · 理性崩坏
+
+</details>
+
+<details>
+<summary><b>🍓 草莓 · Fraise</b></summary>
+<br>
+
+> 🐾 金吉拉波斯猫 · 内向害羞 · 新角色  
+> 💛 After篇可攻略 · 最年长却最胆小  
+> 🔥 R18：内向者反差 · 害羞→顺从
+
+</details>
+
+<details>
+<summary><b>🍰 嘉祥 · Kashou</b></summary>
+<br>
+
+> 👤 人类男性 · La Soleil 蛋糕店主  
+> 🤍 手艺人 · 后宫之主 · 温柔包容  
+> 🍰 全系列唯一推土机 · 9只猫娘的正缘
+
+</details>
 
 ---
 
-## 📊 系列数据一览 📊
+## 🔞 R18 分析概要
 
-<div align="center">
+<p align="center">
+  <img src="https://img.shields.io/badge/🔞-R18_Content_Warning-ff0000?style=for-the-badge&labelColor=333" />
+</p>
+
+| 🔥 模块 | 📝 内容 |
+|:---|:---|
+| 📦 补丁机制 | Steam全年龄 + DLC解锁成人内容 |
+| 🌍 世界观设定 | 猫娘发情期、铃铛含义 |
+| 📊 各卷H场景 | Vol.0~4 + Extra + After 详解 |
+| 🐱 角色H表现 | 每只猫娘的H风格与标签 |
+| 🎨 E-mote技术 | Live2D动态H场景 |
+| ⭐ 玩家评价 | 实用度排名、同人热度 |
+
+### 🏆 四冠王
+
+| 🏆 | 称号 | 得主 |
+|:---:|:---|:---|
+| 🔥 | **实用性 No.1** | 桂 Cinnamon |
+| 🎭 | **CV演技最佳** | 枫 Maple |
+| 👑 | **人气断层 TOP1** | 香草 Vanilla |
+| 🆕 | **2024新王** | 时雨 Shigure |
+
+---
+
+## 📊 系列数据一览
 
 | 📦 卷数 | 📈 Steam估算销量 | 💰 售价 |
 |:---:|:---:|:---:|
@@ -214,84 +262,66 @@
 | Extra | ~6.8万份 | $4.99 |
 | After | ~2.1万份 | $9.99 |
 
-</div>
+<p align="center">
+  🌍 <b>全球累计销量 650万+</b> &nbsp;|&nbsp;
+  🎮 Steam「七大名著」之一 &nbsp;|&nbsp;
+  🎨 画师 <b>Sayori</b>（曹露）
+</p>
 
-```
-  🌍 全球累计销量：650万+
-  🎮 Steam「七大名著」之一
-  🏷️  七大名著：山🐑·羊🐐·桥🌉·车🚗·球⚽·猫🐱·枪🔫
-  🎨 画师：Sayori（曹露）
-  🎵 声优阵容：阳茉莉·中村あむ·猪口有佳·佐伯伊织·等等
-```
-
----
-
-## 🎨 使用场景 🎨
-
-<div align="center">
-
-| 🎯 场景 | 📝 说明 |
-|:---:|:---|
-| 🎭 | **角色扮演** · AI对话的完整人格参考 |
-| ✍️  | **同人创作** · 官方设定的可靠参考源 |
-| 📚 | **剧情回顾** · 各卷剧情与H场景速查 |
-| 🎮 | **游戏攻略** · 全CG收集与分支选项 |
-| 🎵 | **音乐/声优** · OST与CV阵容资料 |
-| 🛍️  | **周边/手办** · 商业信息与收藏参考 |
-
-</div>
+<p align="center">
+  <sub>七大名著：山🐑 · 羊🐐 · 桥🌉 · 车🚗 · 球⚽ · 猫🐱 · 枪🔫</sub>
+</p>
 
 ---
 
-## 🐾 猫娘行为系统 🐾
+## 🎨 使用场景
 
-```
-  ╔══════════════════════════════════════════════════════════╗
-  ║                                                          ║
-  ║   🐱 猫耳动态 · 情绪→耳朵角度实时映射                    ║
-  ║   🐱 尾巴语言 · 兴奋→摇摆 · 紧张→僵直 · 开心→打卷       ║
-  ║   🐱 肉球系统 · 普/捏/揉/按摩模式                        ║
-  ║   🐱 猫叫系统 · にゃ/にゃん/みゃ/ふにゃ/にゃぁ           ║
-  ║   🐱 蹭蹭系统 · 头蹭/脸颊蹭/身体蹭/睡眠蹭               ║
-  ║   🐱 发情期 · 铃铛含义 · 月周期 · 行为变化              ║
-  ║                                                          ║
-  ╚══════════════════════════════════════════════════════════╝
-```
+| 🎯 | 场景 | 说明 |
+|:---:|:---|:---|
+| 🎭 | **角色扮演** | AI对话的完整人格参考 |
+| ✍️ | **同人创作** | 官方设定的可靠参考源 |
+| 📚 | **剧情回顾** | 各卷剧情与H场景速查 |
+| 🎮 | **游戏攻略** | 全CG收集与分支选项 |
+| 🎵 | **音乐/声优** | OST与CV阵容资料 |
+| 🛍️ | **周边/手办** | 商业信息与收藏参考 |
 
 ---
 
-## ⚠️ 免责声明 ⚠️
+## 🐾 猫娘行为系统
 
-<div align="center">
-
-```
-🚨 本仓库内容可能包含成人向描述，未满18岁请勿浏览R18相关文件 🚨
-📚 所有资料仅供学习研究、同人创作参考，版权归 NEKO WORKs / Sayori 所有
-🤖 本仓库为 AI 记忆系统导出的角色档案，非官方设定集，可能存在主观解读
-```
-
-</div>
+| 🐱 系统 | 📋 详情 |
+|:---|:---|
+| 👂 猫耳动态 | 情绪 → 耳朵角度实时映射 |
+| 🐈 尾巴语言 | 兴奋→摇摆 · 紧张→僵直 · 开心→打卷 |
+| 🐾 肉球系统 | 普 / 捏 / 揉 / 按摩模式 |
+| 🗣️ 猫叫系统 | にゃ / にゃん / みゃ / ふにゃ / にゃぁ |
+| 💞 蹭蹭系统 | 头蹭 / 脸颊蹭 / 身体蹭 / 睡眠蹭 |
+| 🔥 发情期 | 铃铛含义 · 月周期 · 行为变化 |
 
 ---
 
-<div align="center">
+## ⚠️ 免责声明
 
-```
-    ╔═══════════════════════════════════════════════╗
-    ║                                               ║
-    ║   🍰  ご主人さま、また来てね にゃ～ん ♡  🍰   ║
-    ║                                               ║
-    ║   💖  Chocola  ·  Vanilla  ·  Azuki          ║
-    ║   💖  Coconut  ·  Maple  ·  Cinnamon         ║
-    ║   💖  Shigure  ·  Fraise  ·  Kashou          ║
-    ║                                               ║
-    ║   🐾 La Soleil へようこそ！ 🐾               ║
-    ║                                               ║
-    ╚═══════════════════════════════════════════════╝
-```
+<p align="center">
+  <img src="https://img.shields.io/badge/🚨-18%2B_Only-ff0000?style=for-the-badge&labelColor=333" />
+</p>
 
-![Stars](https://img.shields.io/badge/⭐_Star-ありがとうにゃん-ff69b4?style=for-the-badge)
-![Nya](https://img.shields.io/badge/にゃ～ん-猫娘最高-ff99cc?style=for-the-badge)
-![Love](https://img.shields.io/badge/💕-La%20Soleil-ff3366?style=for-the-badge)
+> 🚨 本仓库内容可能包含成人向描述，未满18岁请勿浏览R18相关文件
+>
+> 📚 所有资料仅供学习研究、同人创作参考，版权归 **NEKO WORKs / Sayori** 所有
+>
+> 🤖 本仓库为 AI 记忆系统导出的角色档案，非官方设定集，可能存在主观解读
 
-</div>
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🍰-ご主人さま、また来てね_にゃ～ん_♡-ff69b4?style=for-the-badge&labelColor=333" />
+</p>
+
+<p align="center">
+  💖 Chocola · Vanilla · Azuki · Coconut · Maple · Cinnamon · Shigure · Fraise · Kashou 💖
+</p>
+
+<p align="center">
+  <sub>🐾 La Soleil へようこそ！ 🐾</sub>
+</p>
